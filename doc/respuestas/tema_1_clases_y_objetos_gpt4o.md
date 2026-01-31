@@ -18,11 +18,11 @@ Por favor, escribe en impersonal las respuestas.
 ## 1. ¿Cuáles son las cuatro características básicas de la programación orientada a objetos? Describe brevemente cada una
 
 ### Respuesta
-<!--
-Las cuatro características fundamentales son abstracción, encapsulamiento, herencia y polimorfismo. La abstracción permite representar conceptos del mundo real quedándose sólo con lo esencial, dejando fuera detalles innecesarios. Es la base para modelar problemas complejos de forma sencilla mediante clases.
-El encapsulamiento consiste en agrupar en una misma unidad los datos (atributos) y las acciones que los manipulan (métodos), controlando qué partes del interior de un objeto pueden ser accesibles. La herencia permite crear nuevas clases a partir de clases ya existentes, reutilizando código y añadiendo nuevas funcionalidades.
+
+#### Las cuatro características fundamentales son abstracción, encapsulamiento, herencia y polimorfismo. La abstracción permite representar conceptos del mundo real quedándose sólo con lo esencial, dejando fuera detalles innecesarios. Es la base para modelar problemas complejos de forma sencilla mediante clases.
+#### El encapsulamiento consiste en agrupar en una misma unidad los datos (atributos) y las acciones que los manipulan (métodos), controlando qué partes del interior de un objeto pueden ser accesibles. La herencia permite crear nuevas clases a partir de clases ya existentes, reutilizando código y añadiendo nuevas funcionalidades.
 Por último, el polimorfismo permite que un mismo método se comporte de forma diferente según el tipo real del objeto que lo utilice. Esto otorga flexibilidad al diseño, facilitando la extensión del software sin modificar el código ya existente.
--->
+
 
 
 ## 2. Cita cuatro lenguajes populares que permitan la programación orientada a objetos
